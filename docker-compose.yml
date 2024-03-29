@@ -1,0 +1,8 @@
+services:
+  piper:
+    build: ubuntu:22.04
+    entrypoint: "/bin/bash"
+    volumes:
+      - "./exports:/exports"
+      - "./models:/models"
+      - "./piper:/piper"
