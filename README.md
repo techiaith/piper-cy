@@ -1,5 +1,7 @@
 # Piper-CY
 
+![Alt Text](docs/images/demo.gif)
+
 ### [Dogfennaeth Cymraeg](docs/CY.md)
 
 ### [English Documentation](docs/EN.md)
