@@ -41,6 +41,8 @@ root@21d3f7f1bb68:/# echo "Croeso i'r byd testun i leferydd!" | \
 
 Navigate to the `/exports/` folder on your local machine and look for the `croeso.wav` file to play in any audio player.
 
+![Alt Text](images/demo.gif)
+
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -90,12 +92,3 @@ Project Link: [https://github.com/techiaith/piper-cy](https://github.com/techiai
 <img src="images/BU_logo.png" alt="Logo" align="right">
 <br><br><br><br><br>
 We thank the Welsh Government for funding this work as part of the Technoleg Cymraeg 2021-22 project.
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: images/screen_shot.png
-[product-screenshot-2]: images/screen_shot_2.png
-[warning-screenshot]: images/screen_shot_not_secure.png
-[repo-logo]: images/repo_logo.png
-[llyw-logo]: images/llyw_logo.png
-[uni-logo]: images/BU_logo.png
