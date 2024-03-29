@@ -5,7 +5,7 @@
 <span id="about"></span>
 This repository leverages the work of [Piper](https://github.com/rhasspy/piper) to provide offline usage and access to the pre-trained text-to-speech (TTS) models available from the [Uned Technolegau Iaith](http://techiaith.cymru). [Piper](https://github.com/rhasspy/piper) is already used in a variety of [open-source projects] (https://github.com/rhasspy/piper#people-using-piper) but we hope this repository will also serves as a forum to advance the use of Welsh TTS on as many platforms as possible.
 
-In the [releases](https://github.com/techiaith/piper-cy/releases) section you will find pre built [onnx](https://onnxruntime.ai) models for the [Piper](https://github.com/rhasspy/piper) framework. You can follow their instructions to build for you use case or via the [docker](https://docker.com) container in this repo. You will also find the models converted for use with the [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) project which contains several examples of local inference on a variety of devices.	
+In the repo you will find pre built [onnx](https://onnxruntime.ai) models for the [Piper](https://github.com/rhasspy/piper) framework. You can follow their instructions to build for you use case or via the [docker](https://docker.com) container in this repo. You will also find the models converted for use with the [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) project which contains several examples of local inference on a variety of devices.	
 
 <!-- GETTING STARTED -->
 ## Getting Started
