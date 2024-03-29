@@ -3,7 +3,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Ynglŷn â'r Project
 <span id="about"></span>
-Y cod ffynhonnell agored sydd y tu ôl i https://trawsgrifiwr.techiaith.cymru yw cynnwys y storfa (repo) hon. Mae'r project yn lapio gwasanaeth adnabod lleferydd yr [Uned Technolegau Iaith](http://techiaith.cymru) mewn rhyngwyneb syml ar gyfer creu isdeitlau Cymraeg.
+Mae'r repo yma yn adeiladu ar y gwaith [Piper](https://github.com/rhasspy/piper).
 
 
 <!-- GETTING STARTED -->
