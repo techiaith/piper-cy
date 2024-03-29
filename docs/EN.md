@@ -41,8 +41,6 @@ root@21d3f7f1bb68:/# echo "Croeso i'r byd testun i leferydd!" | \
 
 Navigate to the `/exports/` folder on your local machine and look for the `croeso.wav` file to play in any audio player.
 
-[![Product Name Screen Shot][product-screenshot-2]](https://trawsgrifiwr.techiaith.cymru)
-
 
 <!-- ROADMAP -->
 ## Roadmap
