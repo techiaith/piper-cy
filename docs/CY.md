@@ -25,20 +25,20 @@ Mae docker-compose bellach yn cael ei osod gyda DockerDesktop. Fodd bynnag os na
    ```sh
    git clone https://github.com/techiaith/piper-cy.git
    ```
-   
-2. Adeiladwch delwedd docker
-
-   ```sh
-   docker compose build
-   ```   
+      
 <!-- USAGE EXAMPLES -->
 ## Defnydd
 
 ```sh
-docker compose up
+docker compose run piper 
+
+root@21d3f7f1bb68:/# echo "Croeso i'r byd testun i leferydd!" | \
+  ./piper --model /models/gwryw-gogleddol.onnx --output_file /exports/croeso.wav
 ```
 
-[![Product Name Screen Shot][product-screenshot-2]](https://trawsgrifiwr.techiaith.cymru)
+Ewch i'r ffolder `/exports/` ar eich peiriant lleol a chwiliwch am y ffeil `croeso.wav`.
+
+![Alt Text](images/demo.gif)
 
 <!-- ROADMAP -->
 ## Map ffordd
@@ -95,14 +95,3 @@ Project Link: [https://github.com/techiaith/piper-cy](https://github.com/techiai
 <br><br><br><br><br>
 Diolchwn i Lywodraeth Cymru am ariannu’r gwaith hwn fel rhan o brosiect Technoleg Cymraeg 2021-22.
 
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: images/screen_shot.png
-[product-screenshot-2]: images/screen_shot_2.png
-[warning-screenshot]: images/screen_shot_not_secure.png
-[repo-logo]: images/repo_logo.png
-[llyw-logo]: images/llyw_logo.png
-[uni-logo]: images/BU_logo.png
