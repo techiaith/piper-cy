@@ -3,7 +3,9 @@
 <!-- ABOUT THE PROJECT -->
 ## Ynglŷn â'r Project
 <span id="about"></span>
-Mae'r repo yma yn adeiladu ar y gwaith [Piper](https://github.com/rhasspy/piper).
+Mae'r ystorfa hon yn trosoli gwaith [Piper](https://github.com/rhasspy/piper) i ddarparu defnydd all-lein a mynediad i'r modelau testun-i-leferydd (TTS) sydd wedi'u hyfforddi ymlaen llaw gan [Uned Technolegau Iaith](http://techiaith.cymru). Mae [Piper] (https://github.com/rhasspy/piper) eisoes yn cael ei ddefnyddio mewn amrywiaeth o [brosiectau cod agored] (https://github.com/rhasspy/piper#people-using-piper) ond rydym yn gobeithio y bydd yr ystorfa hon hefyd yn gwasanaethu fel fforwm i hyrwyddo'r defnydd o TTS Cymraeg ar gynifer o lwyfannau â sy'n bosib.
+
+Yn yr ystorfa fe welwch fodelau [onnx] (https://onnxruntime.ai) a adeiladwyd ymlaen llaw ar gyfer y fframwaith [Piper](https://github.com/rhasspy/piper). Gallwch ddilyn eu cyfarwyddiadau i adeiladu ar gyfer eich dibenion penodol neu drwy'r cynhwysydd [docer](https://docker.com) yn yr ystorfa hwn. Fe welwch hefyd y modelau a droswyd i'w defnyddio gyda'r prosiect [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) sy'n cynnwys sawl enghraifft o gasgliad lleol ar amrywiaeth o ddyfeisiau.
 
 
 <!-- GETTING STARTED -->
